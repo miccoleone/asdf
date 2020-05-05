@@ -25,7 +25,7 @@ public class Test {
 		         String user="root";//访问数据库的用户名
 		         String password="123456";//用户密码
 
-				  System.out.println("asdf");
+				  System.out.println("as df");
 			  }
  }
 
